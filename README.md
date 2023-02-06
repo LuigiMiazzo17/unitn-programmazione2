@@ -1,3 +1,1 @@
-# programmazione2
-
-This is Miazzo Luigi's repository for the course of Computer Programming 2 @ uniTN.
+This is Miazzo Luigi's repository for the course of "Programmazione 2" @ uniTN, Prof. Ronchetti Marco.
